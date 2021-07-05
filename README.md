@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Fluffy Bean! Or just Fluffy
+- 👀 I’m interested in Python and now also HTML!
+- 🌱 I’m currently learning Python and HTML
+- 📫 How to reach me Twitter: @FluffyBeanUwU  Telegram: @Fluffy_Bean
