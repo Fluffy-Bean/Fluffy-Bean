@@ -31,7 +31,8 @@ Where you can find me
 Hardware
 -------
 ### PC
-
+| Part            | Name                                                  |
+|-----------------|-------------------------------------------------------|
 | Motherboard     | Gigabyte X570 AORUS ELITE (non wifi)                  |
 | RAM             | Corsair Vengeance LPX 16 GB DDR4-3600 CL18 (2 x 8 GB) |
 | CPU             | AMD Ryzen 5 3600 3.6 GHz 6-Core                       |
@@ -43,6 +44,8 @@ Hardware
 | HDD             | Hitachi Deskstar 7K2000 2TB (HDS722020ALA330)         |
 
 ### Desk
+| Part            | Name                                                  |
+|-----------------|-------------------------------------------------------|
 | Monitor         | BenQ MOBIUZ EX2510                                    |
 | Keybaord        | Razer Blackwiddow X Chroma                            |
 | Mouse           | Razer Deathadder Elite                                |
