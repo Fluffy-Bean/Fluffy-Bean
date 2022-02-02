@@ -43,7 +43,7 @@ HDD:              Hitachi Deskstar 7K2000 2TB (HDS722020ALA330)
 Cable Management: Poor
 ### OS
 Manjaro Linux
-[uwufetch](https://github.com/Fluffy-Bean/Fluffy-Bean/blob/main/uwufetch.png?raw=true)
+![uwufetch](https://github.com/Fluffy-Bean/Fluffy-Bean/blob/main/uwufetch.png?raw=true)
 Windows 10 Home
 ### Desk
 Monitor:  BenQ MOBIUZ EX2510
