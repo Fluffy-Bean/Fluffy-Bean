@@ -4,10 +4,10 @@ Hi, I’m Fluffy Bean!
 
 Programming Experience
 -------
-## Education
+### Education
 1. Currently learning Game Development in College
 2. Took Computer Science classes and passed with a GSCE
-## Experience
+### Experience
 1. Python Discord bot
 2. HTML and CSS
 [My fist site](https://fluffy.1x.no)
