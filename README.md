@@ -4,9 +4,17 @@ Hi, I’m Fluffy Bean!
 
 Programming Experience
 -------
-1. Python Discord bot and education from school/home
-2. HTML and CSS, made a website! [My fist site](https://fluffy.1x.no) and [my second one](https://uwu.fluffybean.gay)
-3. I (with some help) have set up a Proxmox server to host my own website
+## Education
+1. Currently learning Game Development in College
+2. Took Computer Science classes and passed with a GSCE
+## Experience
+1. Python Discord bot
+2. HTML and CSS
+[My fist site](https://fluffy.1x.no)
+[my second one](https://uwu.fluffybean.gay)
+3. I, with some help, have set up a Proxmox server
+4. I set up and manage Minecraft servers, yes I know a big achievement
+
 
 I am currently learning
 -------
@@ -17,5 +25,5 @@ I am currently learning
 
 Where you can find me
 -------
-[Twitter](https://twitter.com/fluffybeanUwU)
-[Telegram](https://t.me/Fluffy_Bean)
+1. [Twitter](https://twitter.com/fluffybeanUwU)
+2. [Telegram](https://t.me/Fluffy_Bean)
