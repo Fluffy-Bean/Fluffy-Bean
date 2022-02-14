@@ -9,12 +9,9 @@ Programming Experience
 - Took Computer Science classes and passed with a GSCE
 ### Experience
 - Python Discord bot
-- HTML and CSS
-[My fist site](https://fluffy.1x.no)
-[my second one](https://uwu.fluffybean.gay)
+- HTML and CSS,[My fist site](https://fluffy.1x.no) & [my second one](https://uwu.fluffybean.gay)
 - I, with some help, have set up a Proxmox server
 - I set up and manage Minecraft servers, yes I know a big achievement
-
 
 I am currently learning
 -------
