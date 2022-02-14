@@ -55,10 +55,13 @@ Software
 -------
 
 ### OS
-- Manjaro Linux
+- Arch Linux
 
 ![uwufetch](https://github.com/Fluffy-Bean/Fluffy-Bean/blob/main/uwufetch.png?raw=true)
 
 - Windows 10 Home
+
+## Editors
 - Atom code editor
+- Vim
 - Alacritty Terminal
