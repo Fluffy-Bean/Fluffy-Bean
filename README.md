@@ -13,7 +13,7 @@ Programming Experience
   - Several other "useful" programs
 - HTML and CSS
 - I, with some help, have set up a Proxmox server, hosting
-  - [My website](https://uwu.fluffybean.gay)
+  - [My website](https://testing.fluffybean.gay)
   - Nextcloud
   - Minecraft servers
 
