@@ -1,30 +1,29 @@
-Welcome
--------
-Hi, I’m Fluffy Bean!
+# Welcome
+<p>
+  <h3>Hi, I’m Fluffy Bean!</h3>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fluffy-Bean&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fluffy-Bean">
+</p>
 
-Programming Experience
--------
-### Education
-- Game Development Level 3 - College
-- Computer Science - Secondary School
-### Experience
-- Python
-  - Discord bot
-  - Several other "useful" programs
-- HTML and CSS
-- I, with some help, have set up a Proxmox server, hosting
-  - [My website](https://testing.fluffybean.gay)
-  - Nextcloud
-  - Minecraft servers
+## Programming Experience
+|Education       |Level  |
+|----------------|-------|
+|Game Development|Level 3|
+|Computer Science|GCSE   |
 
-Languages that interest me
--------
+|Projects                                    |Using             |
+|--------------------------------------------|------------------|
+|Discord bot                                 |Python            |
+|[My website](https://testing.fluffybean.gay)|HTML and CSS      |
+|Hosting servers                             |Proxmox           |
+|Nextcloud                                   |Ubuntu            |
+
+## Languages that interest me
 - PHP
 - Bash
 - Python
 - HTML & CSS
 
-Where you can find me
--------
+## Where you can find me
 - [Twitter](https://twitter.com/fluffybeanUwU)
 - [Telegram](https://t.me/Fluffy_Bean)
