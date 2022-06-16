@@ -6,17 +6,17 @@
 </p>
 
 ## Programming Experience
-|Education       |Level  |
-|----------------|-------|
-|Game Development|Level 3|
-|Computer Science|GCSE   |
+|Education       |Level  |Grade|
+|----------------|-------|-----|
+|Game Development|Level 3|nul  |
+|Computer Science|GCSE   |5    |
 
-|Projects                                    |Using             |
-|--------------------------------------------|------------------|
-|Discord bot                                 |Python            |
-|[My website](https://testing.fluffybean.gay)|HTML and CSS      |
-|Hosting servers                             |Proxmox           |
-|Nextcloud                                   |Ubuntu            |
+|Projects                                |Using             |
+|----------------------------------------|------------------|
+|Discord bot                             |Python            |
+|[My website](https://gay.fluffybean.gay)|HTML and CSS      |
+|Hosting servers                         |Proxmox           |
+|Nextcloud                               |Ubuntu            |
 
 ## Languages that interest me
 - PHP
