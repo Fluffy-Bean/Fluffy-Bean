@@ -8,7 +8,7 @@
 ## Programming Experience
 |Education       |Level  |Grade|
 |----------------|-------|-----|
-|Game Development|Level 3|Merit|
+|Game Development|Level 3|Pass |
 |Computer Science|GCSE   |5    |
 
 |Projects                                |Using             |
