@@ -6,11 +6,11 @@
   </div>
 
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Fluffy-Bean&theme=gruvbox&show_icons=false">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Fluffy_Bean&layout=compact&theme=gruvbox">
   </div>
 
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Fluffy_Bean&layout=compact&theme=gruvbox&langs_count=10">
+    <img src="https://github-readme-stats.vercel.app/api?username=Fluffy-Bean&theme=gruvbox&show_icons=true">
   </div>
 
   <div align="center">
