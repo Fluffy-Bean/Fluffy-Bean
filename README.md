@@ -1,7 +1,6 @@
-# Welcome
 <div align="center">
-  <h3>Hi, I’m Fluffy Bean!</h3>
-
+  <h1>Hewwo, I'm Fluffy Bean!</h1>
+  
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fluffy-Bean&layout=compact&theme=gruvbox&card_width=445&langs_count=10">
   </div>
@@ -11,7 +10,7 @@
   </div>
 
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Fluffy_Bean&layout=compact&theme=gruvbox&langs_count=10&show_icons=false">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Fluffy_Bean&layout=compact&theme=gruvbox&langs_count=10">
   </div>
 
   <div align="center">
