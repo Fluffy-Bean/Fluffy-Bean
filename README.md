@@ -2,15 +2,15 @@
   <h1>Hewwo, I'm Fluffy Bean!</h1>
   
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fluffy-Bean&layout=compact&theme=gruvbox&card_width=445&langs_count=10">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fluffy-Bean&layout=compact&card_width=445&langs_count=10&title_color=8C977D&bg_color=151515&text_color=E8E3E3&hide_border=true&icon_color=8C977D&border_radius=15px">
   </div>
 
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Fluffy_Bean&layout=compact&theme=gruvbox">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Fluffy_Bean&layout=compact&title_color=8C977D&bg_color=151515&text_color=E8E3E3&hide_border=true&icon_color=8C977D&border_radius=15px">
   </div>
 
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Fluffy-Bean&theme=gruvbox&show_icons=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=Fluffy-Bean&show_icons=true&title_color=8C977D&bg_color=151515&text_color=E8E3E3&hide_border=true&icon_color=8C977D&border_radius=15px">
   </div>
 
   <div align="center">
