@@ -16,8 +16,13 @@
   <div align="center">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=lizarddash005&width=495&count=3">
   </div>
+  
+  <div align="center">
+    <a href="https://twitter.com/fluffybeanUwU">Twitter</a> | <a href="https://t.me/Fluffy_Bean">Telegram</a> | <a href="https:gay.fluffybean.gay">My website</a>
+  </div>
 </div>
 
+<!--
 ## Programming Experience
 |Education       |Level  |Grade|
 |----------------|-------|-----|
@@ -37,7 +42,4 @@
 - Bash
 - Python
 - HTML & CSS
-
-## Where you can find me
-- [Twitter](https://twitter.com/fluffybeanUwU)
-- [Telegram](https://t.me/Fluffy_Bean)
+-->
