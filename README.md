@@ -1,6 +1,4 @@
 <div align="center">
-  <h1>Hewwo, I'm Fluffy Bean!</h1>
-  
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fluffy-Bean&layout=compact&card_width=445&langs_count=10&title_color=8C977D&bg_color=151515&text_color=E8E3E3&hide_border=true&icon_color=8C977D&border_radius=15px">
   </div>
@@ -18,7 +16,9 @@
   </div>
   
   <div align="center">
-    <a href="https://twitter.com/fluffybeanUwU">Twitter</a> | <a href="https://t.me/Fluffy_Bean">Telegram</a> | <a href="https:gay.fluffybean.gay">My website</a>
+    <a href="https://twitter.com/fluffybeanUwU"><img src="twitter-logo-fill.svg" width=30></a>
+    <a href="https://t.me/Fluffy_Bean"><img src="telegram-logo-fill.svg" width=30></a>
+    <a href="https:gay.fluffybean.gay"><img src="globe-fill.svg" width=30></a>
   </div>
 </div>
 
