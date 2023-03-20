@@ -1,45 +1,15 @@
 <div align="center">
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fluffy-Bean&layout=compact&card_width=445&langs_count=10&title_color=8C977D&bg_color=151515&text_color=E8E3E3&hide_border=true&icon_color=8C977D&border_radius=15px">
-  </div>
-
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Fluffy_Bean&layout=compact&title_color=8C977D&bg_color=151515&text_color=E8E3E3&hide_border=true&icon_color=8C977D&border_radius=15px">
-  </div>
-
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Fluffy-Bean&show_icons=true&title_color=8C977D&bg_color=151515&text_color=E8E3E3&hide_border=true&icon_color=8C977D&border_radius=15px">
-  </div>
-
-  <div align="center">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=lizarddash005&width=495&count=3">
-  </div>
-  
-  <div align="center">
-    <a href="https://twitter.com/fluffybeanUwU"><img src="twitter-logo-fill.svg" width=30></a>
-    <a href="https://t.me/Fluffy_Bean"><img src="telegram-logo-fill.svg" width=30></a>
-    <a href="https:gay.fluffybean.gay"><img src="globe-fill.svg" width=30></a>
-  </div>
+  <a href="https://wakatime.com/@29bd1733-45f0-41c0-901e-d6daf49094d4"><img src="https://wakatime.com/badge/user/29bd1733-45f0-41c0-901e-d6daf49094d4.svg?style=for-the-badge" alt="Total time coded since Sep 8 2022" /></a>
 </div>
 
-<!--
-## Programming Experience
-|Education       |Level  |Grade|
-|----------------|-------|-----|
-|Game Development|Level 3|Pass |
-|Computer Science|GCSE   |5    |
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fluffy-Bean&layout=compact&card_width=495&langs_count=10&title_color=8C977D&bg_color=151515&text_color=E8E3E3&hide_border=true&icon_color=8C977D&border_radius=4px">
+</div>
 
-|Projects                                |Using             |
-|----------------------------------------|------------------|
-|Discord bot                             |Python            |
-|[My website](https://gay.fluffybean.gay)|PHP and CSS       |
-|Game servers                            |Custom scripts    |
-|Hosting servers                         |Proxmox           |
-|Nextcloud                               |Ubuntu            |
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Fluffy_Bean&layout=compact&title_color=8C977D&bg_color=151515&text_color=E8E3E3&hide_border=true&icon_color=8C977D&langs_count=10&border_radius=4px">
+</div>
 
-## Languages that interest me
-- PHP
-- Bash
-- Python
-- HTML & CSS
--->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fluffy-Bean&show_icons=true&card_width=495&title_color=8C977D&bg_color=151515&text_color=E8E3E3&hide_border=true&icon_color=8C977D&border_radius=4px">
+</div>
