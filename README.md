@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Fluffy_Bean&layout=compact&title_color=8C977D&bg_color=151515&text_color=E8E3E3&hide_border=true&icon_color=8C977D&langs_count=10&border_radius=4px">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Fluffy_Bean&layout=compact&title_color=8C977D&bg_color=151515&text_color=E8E3E3&hide_border=true&icon_color=8C977D&langs_count=10&border_radius=4px&range=all_time">
 </div>
 
 <div align="center">
