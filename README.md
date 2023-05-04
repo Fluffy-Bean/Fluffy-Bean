@@ -3,13 +3,13 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fluffy-Bean&layout=compact&card_width=495&langs_count=10&title_color=8C977D&bg_color=151515&text_color=E8E3E3&hide_border=true&icon_color=8C977D&border_radius=4px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fluffy-Bean&layout=compact&card_width=495&langs_count=10&title_color=B7A997&bg_color=151515&text_color=E8E3E3&hide_border=true&icon_color=B7A997&border_radius=4px">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Fluffy_Bean&layout=compact&title_color=8C977D&bg_color=151515&text_color=E8E3E3&hide_border=true&icon_color=8C977D&langs_count=10&border_radius=4px&range=all_time">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Fluffy_Bean&layout=compact&title_color=B7A997&bg_color=151515&text_color=E8E3E3&hide_border=true&icon_color=B7A997&langs_count=10&border_radius=4px&range=all_time">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fluffy-Bean&show_icons=true&card_width=495&title_color=8C977D&bg_color=151515&text_color=E8E3E3&hide_border=true&icon_color=8C977D&border_radius=4px">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fluffy-Bean&show_icons=true&card_width=495&title_color=B7A997&bg_color=151515&text_color=E8E3E3&hide_border=true&icon_color=B7A997&border_radius=4px">
 </div>
