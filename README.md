@@ -16,5 +16,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fluffy-Bean&layout=compact&card_width=495&langs_count=10&title_color=B7A997&bg_color=151515&text_color=E8E3E3&hide_border=true&icon_color=B7A997&border_radius=0px">
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Fluffy_Bean&layout=compact&title_color=B7A997&bg_color=151515&text_color=E8E3E3&hide_border=true&icon_color=B7A997&langs_count=10&border_radius=0px&range=all_time">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Fluffy_Bean&layout=compact&title_color=B7A997&bg_color=151515&text_color=E8E3E3&hide_border=true&icon_color=B7A997&langs_count=20&border_radius=0px&range=all_time">
 </div>
