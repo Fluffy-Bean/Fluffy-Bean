@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Fluffy_Bean&theme=dark&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D&background=151515&stroke=151515&currStreakNum=E8E3E3&sideNums=E8E3E3&sideLabels=E8E3E3&dates=3E3C3C&fire=B7A997&ring=B7A997&currStreakLabel=B7A997" alt="GitHub Streak">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Fluffy-Bean&theme=dark&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D&background=151515&stroke=151515&currStreakNum=E8E3E3&sideNums=E8E3E3&sideLabels=E8E3E3&dates=3E3C3C&fire=B7A997&ring=B7A997&currStreakLabel=B7A997" alt="GitHub Streak">
 <div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Fluffy-Bean&show_icons=true&card_width=495&title_color=B7A997&bg_color=151515&text_color=E8E3E3&hide_border=true&icon_color=B7A997&border_radius=0px">
