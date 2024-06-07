@@ -21,3 +21,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Fluffy_Bean&layout=compact&title_color=B7A997&bg_color=151515&text_color=E8E3E3&hide_border=true&icon_color=B7A997&langs_count=20&border_radius=0px&range=all_time">
 </div>
+
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background: url('https://raw.githubusercontent.com/Fluffy-Bean/Fluffy-Bean/main/wathog.jpg'); background-size: cover; background-position: center center; width: 100vw; height:100vh; opacity: 0.5;]{x0000}$}
+```
